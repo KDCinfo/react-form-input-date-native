@@ -38,7 +38,12 @@
     Compiler:
 
         - Keith D Commiskey (2017-06)
-        - https://github.com/KDCinfo/react-form-input-date-native
+
+        This code is hosted and run on GitHub via Travis CI.
+
+        - GitHub Source (Code) -- https://github.com/KDCinfo/react-form-input-date-native
+        - GitHub Pages (Demo) -- https://KDCinfo.github.io/react-form-input-date-native/
+        - Travis CI (Prod Build) -- https://travis-ci.org/KDCinfo/react-form-input-date-native
 */
 
 import React from "react"

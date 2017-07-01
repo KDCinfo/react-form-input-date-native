@@ -35,12 +35,17 @@
     Compiler:
 
         - Keith D Commiskey (2017-06)
-        - https://github.com/KDCinfo/react-form-input-date-native
+
+        This code is hosted and run on GitHub via Travis CI.
+
+        - GitHub Source (Code) -- https://github.com/KDCinfo/react-form-input-date-native
+        - GitHub Pages (Demo) -- https://KDCinfo.github.io/react-form-input-date-native/
+        - Travis CI (Prod Build) -- https://travis-ci.org/KDCinfo/react-form-input-date-native
 */
 
 import React from 'react'
 import PropTypes from 'prop-types'
-import { Form, Row, Col, Button } from 'react-bootstrap'
+import { Form, Row, Col, Button, Panel, Well } from 'react-bootstrap'
 
 import DateInput from './FormDate'
 
@@ -216,6 +221,22 @@ class FormDateContainer extends React.Component {
                             <Button className="btn btn-primary" type="submit">Submit Form</Button>
                             <Button className="btn btn-default" onClick={this.clearForm}>Reset Form</Button>
                         </div>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col xs={12}>
+                        <br/>
+                        <Panel bsSize="xs"><Well>
+                            <p>
+                                This React Form Component demo is hosted and run&nbsp;
+                                <a href="https://github.com/KDCinfo/react-form-input-date-native" target="kdcNewWin">on GitHub</a> via&nbsp;
+                                <a href="https://travis-ci.org/KDCinfo/react-form-input-date-native" target="kdcNewWin">Travis CI</a>.
+                            </p>
+                            <ul>
+                                <li><a href="https://github.com/KDCinfo/react-form-input-date-native" target="kdcNewWin"><b>https://github.com/KDCinfo/</b>react-form-input-date-native</a></li>
+                                <li><a href="https://travis-ci.org/KDCinfo/react-form-input-date-native" target="kdcNewWin"><b>https://travis-ci.org/KDCinfo/</b>react-form-input-date-native</a></li>
+                            </ul>
+                        </Well></Panel>
                     </Col>
                 </Row>
             </Form>

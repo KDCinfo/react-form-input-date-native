@@ -21,7 +21,17 @@ This component will render one `<input>` with a `type` of `date` for browsers th
   - Auto-adjusts number of days available based on year/month input
   - A starting base for form validation (checks for type and length)
 
-## Running This Demo
+## Demo
+
+### Online Demo
+
+This demo is hosted and run on GitHub via Travis CI.
+
+  - [GitHub Source (Code)](https://github.com/KDCinfo/react-form-input-date-native)
+  - [GitHub Pages (Demo)](https://KDCinfo.github.io/react-form-input-date-native/)
+  - [Travis CI (Prod Build)](https://travis-ci.org/KDCinfo/react-form-input-date-native)
+
+### Install and Run Locally
 
 This app was generated using [Create React App](https://github.com/facebookincubator/create-react-app)
 
