@@ -362,5 +362,68 @@ exports[`FormDateContainer: Jest Snapshot 1`] = `
       </div>
     </div>
   </div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-xs-12"
+    >
+      <br />
+      <div
+        className="panel panel-xs panel-default"
+        id={undefined}
+      >
+        <div
+          className="panel-body"
+        >
+          <div
+            className="well"
+          >
+            <p>
+              This React Form Component demo is hosted and run 
+              <a
+                href="https://github.com/KDCinfo/react-form-input-date-native"
+                target="kdcNewWin"
+              >
+                on GitHub
+              </a>
+               via 
+              <a
+                href="https://travis-ci.org/KDCinfo/react-form-input-date-native"
+                target="kdcNewWin"
+              >
+                Travis CI
+              </a>
+              .
+            </p>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/KDCinfo/react-form-input-date-native"
+                  target="kdcNewWin"
+                >
+                  <b>
+                    https://github.com/KDCinfo/
+                  </b>
+                  react-form-input-date-native
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://travis-ci.org/KDCinfo/react-form-input-date-native"
+                  target="kdcNewWin"
+                >
+                  <b>
+                    https://travis-ci.org/KDCinfo/
+                  </b>
+                  react-form-input-date-native
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </form>
 `;
