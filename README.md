@@ -1,4 +1,4 @@
-<img src="https://travis-ci.org/KDCinfo/react-form-input-date-native.svg?branch=master"/>
+[![Build Status](https://travis-ci.org/KDCinfo/react-form-input-date-native.svg?branch=master)](https://travis-ci.org/KDCinfo/react-form-input-date-native)
 
 # React Component > Form > Input > Type: Date
 
