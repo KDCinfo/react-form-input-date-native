@@ -1,3 +1,5 @@
+<img src="https://travis-ci.org/KDCinfo/react-form-input-date-native.svg?branch=master"/>
+
 # React Component > Form > Input > Type: Date
 
 `<input type="date" />`
