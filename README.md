@@ -14,9 +14,9 @@ This component will render one `<input>` with a `type` of `date` for browsers th
 
 This demo is hosted and run on GitHub via Travis CI.
 
-  - [GitHub Source (Code)](https://github.com/KDCinfo/react-form-input-date-native)
-  - [GitHub Pages (Demo)](https://KDCinfo.github.io/react-form-input-date-native/)
-  - [Travis CI (Prod Build)](https://travis-ci.org/KDCinfo/react-form-input-date-native)
+  - [View the Demo](https://KDCinfo.github.io/react-form-input-date-native/) (GitHub Pages)
+  - [View the Prod Build](https://travis-ci.org/KDCinfo/react-form-input-date-native) (Travis)
+  - [See component used in a project](https://github.com/KDCinfo/track-your-cash) (component is named `DateInput.js`)
 
 ### Install and Run Locally
 
