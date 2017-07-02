@@ -8,21 +8,6 @@
 
 This component will render one `<input>` with a `type` of `date` for browsers that support it, and 3 (dynamic) `<select>` tags for browsers that don't.
 
-## Simplified Overview:
-
-### Native:
-  - `<input type="date" />`
-
-### Non-Native Fallback:
-  - `<select name="year" />`
-  - `<select name="month" />`
-  - `<select name="day" />`
-
-## Features:
-  - Auto-detects native date field support
-  - Auto-adjusts number of days available based on year/month input
-  - A starting base for form validation (checks for type and length)
-
 ## Demo
 
 ### Online Demo
@@ -42,6 +27,21 @@ This app was generated using [Create React App](https://github.com/facebookincub
   3. run `npm install` (or `sudo npm install` if you require `su` permission),
   4. then `npm start`,
   5. follow the on-screen directions.
+
+## Simplified Overview:
+
+### Native:
+  - `<input type="date" />`
+
+### Non-Native Fallback:
+  - `<select name="year" />`
+  - `<select name="month" />`
+  - `<select name="day" />`
+
+## Features:
+  - Auto-detects native date field support
+  - Auto-adjusts number of days available based on year/month input
+  - A starting base for form validation (checks for type and length)
 
 ## Usage:
 
